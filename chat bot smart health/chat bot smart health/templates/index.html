@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Health Chatbot</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body {
+            background: url("{{ url_for('static', filename='chatbot.avif') }}") no-repeat center center fixed;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', sans-serif;
+        }
+        .chat-wrapper {
+            width: 90%;
+            max-width: 800px;
+            height: 85vh;
+            margin: 3vh auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.07);
+            border-radius: 15px;
+            backdrop-filter: blur(8px);
+            display: flex;
+            flex-direction: column;
+        }
+        .chat-box {
+            flex-grow: 1;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        .msg {
+            padding: 10px 15px;
+            border-radius: 20px;
+            max-width: 85%;
+            font-size: 16px;
+            word-wrap: break-word;
+        }
+        .msg.user {
+            background-color: #dcf8c6;
+            align-self: flex-end;
+            border-bottom-right-radius: 0;
+        }
+        .msg.bot {
+            background-color: #f1f0f0;
+            align-self: flex-start;
+            border-bottom-left-radius: 0;
+        }
+        .chat-input {
+            display: flex;
+            gap: 10px;
+        }
+        .chat-input input[type="text"] {
+            flex: 1;
+            padding: 10px;
+            border-radius: 20px;
+            border: 1px solid #ccc;
+        }
+        .mic-btn, .send-btn {
+            background-color: #25d366;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 45px;
+            height: 45px;
+            font-size: 18px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-wrapper">
+        <h4 class="text-white text-center mb-3">💬 Smart Health Chatbot</h4>
+        <div class="chat-box" id="chatBox">
+            {% for msg in session.get('chat_history', []) %}
+                <div class="msg user">🧑‍💬 {{ msg['user'] }}</div>
+                <div class="msg bot">🤖 {{ msg['bot']|safe }}</div>
+            {% endfor %}
+        </div>
+
+        <form method="POST">
+            <div class="chat-input">
+                <input type="text" name="symptoms" id="symptoms" placeholder="Type symptoms..." required>
+                <button type="button" class="mic-btn" onclick="startDictation()">🎙️</button>
+                <button type="submit" class="send-btn">📨</button>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        let currentUtterance;
+
+        function startDictation() {
+            if ('webkitSpeechRecognition' in window) {
+                const recognition = new webkitSpeechRecognition();
+                recognition.continuous = false;
+                recognition.lang = "en-US";
+                recognition.start();
+
+                recognition.onresult = function (event) {
+                    document.getElementById('symptoms').value = event.results[0][0].transcript;
+                    recognition.stop();
+                };
+
+                recognition.onerror = function () {
+                    alert("Voice recognition failed. Try again.");
+                    recognition.stop();
+                };
+            } else {
+                alert("Your browser doesn't support voice input.");
+            }
+        }
+
+        // Optional: Auto scroll to latest message
+        const chatBox = document.getElementById('chatBox');
+        chatBox.scrollTop = chatBox.scrollHeight;
+    </script>
+</body>
+</html>

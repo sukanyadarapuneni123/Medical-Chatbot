@@ -1,0 +1,301 @@
+symptoms,disease,precautions,medicine
+"sneezing, itchy eyes, sore throat",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"nausea, depression, rash, runny nose, fatigue, vomiting",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"depression, shortness of breath, itchy eyes, cough, vomiting",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"tingling, sneezing, blurred vision, joint pain",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"fever, depression, loss of smell, blurred vision, anxiety",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"sneezing, anxiety, loss of taste, insomnia",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"itchy eyes, cough, chest pain, blurred vision, diarrhea",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"vomiting, tingling, diarrhea, loss of taste, chills",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"muscle pain, loss of taste, swollen glands",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"cough, sweating, itchy eyes, insomnia, loss of smell, nausea",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"vomiting, rash, chest pain, diarrhea",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"diarrhea, loss of taste, sore throat, headache",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"sore throat, fever, blurred vision, chills, joint pain",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"irritability, insomnia, sweating",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"tingling, fever, nausea",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"fever, depression, anxiety, loss of smell, chills, sore throat",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"abdominal pain, chills, joint pain, tingling, sneezing, chest pain",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"loss of smell, sore throat, cough, blurred vision, shortness of breath, diarrhea",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"runny nose, itchy eyes, fever, diarrhea, chest pain, insomnia",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"runny nose, cough, shortness of breath, fatigue, sore throat",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"insomnia, fatigue, joint pain, sweating, chest pain, shortness of breath",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"dizziness, chills, diarrhea, shortness of breath",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"chills, back pain, rash, irritability, headache, swollen glands",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"nausea, vomiting, itchy eyes, chills, insomnia",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"sweating, cough, itchy eyes, rash",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"abdominal pain, tingling, muscle pain, blurred vision",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"chest pain, runny nose, joint pain, rash, tingling",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"fever, headache, diarrhea, runny nose, sweating, loss of taste",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"abdominal pain, joint pain, muscle pain, headache, fever",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"nausea, insomnia, rash, joint pain, cough, runny nose",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"fatigue, rash, chills",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"rash, joint pain, depression, chills, blurred vision",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"abdominal pain, nausea, cough, irritability, muscle pain",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"runny nose, nausea, anxiety, fever, fatigue, cough",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"joint pain, shortness of breath, runny nose, dizziness",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"depression, abdominal pain, joint pain, muscle pain, back pain",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"joint pain, depression, runny nose",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"cough, headache, loss of taste, muscle pain, sore throat",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"sore throat, rash, chest pain, shortness of breath",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"headache, swollen glands, sweating, dizziness",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"anxiety, muscle pain, joint pain, chills",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"tingling, chest pain, cough, muscle pain, sneezing, chills",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"loss of taste, sweating, irritability, muscle pain",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"itchy eyes, fever, runny nose, vomiting, fatigue, shortness of breath",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"cough, fever, abdominal pain, loss of taste, shortness of breath",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"chills, insomnia, irritability, itchy eyes, swollen glands",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"shortness of breath, sweating, chills, depression, fever",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"nausea, diarrhea, cough, vomiting, muscle pain",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"anxiety, back pain, insomnia, joint pain, sweating, swollen glands",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"nausea, fever, shortness of breath",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"sneezing, headache, rash, cough",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"rash, cough, sneezing, joint pain, swollen glands, irritability",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"diarrhea, dizziness, vomiting, anxiety",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"vomiting, chills, loss of taste, irritability, fever, chest pain",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"sore throat, shortness of breath, chills",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"loss of taste, swollen glands, depression, fever",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"muscle pain, loss of taste, swollen glands, vomiting, joint pain, chest pain",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"irritability, headache, chills",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"back pain, chest pain, sore throat, shortness of breath",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"blurred vision, swollen glands, nausea, fatigue, dizziness",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"abdominal pain, loss of smell, sore throat",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"headache, fatigue, sneezing, shortness of breath",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"anxiety, abdominal pain, depression, vomiting, diarrhea, itchy eyes",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"runny nose, sore throat, rash, fatigue, tingling, joint pain",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"vomiting, tingling, itchy eyes, cough, irritability, swollen glands",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"fever, nausea, shortness of breath, tingling, diarrhea, sweating",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"joint pain, sneezing, vomiting",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"fever, chest pain, insomnia, sweating, muscle pain, dizziness",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"loss of smell, joint pain, shortness of breath, back pain, muscle pain, headache",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"blurred vision, fever, cough, headache",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"abdominal pain, loss of smell, runny nose",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"irritability, insomnia, diarrhea",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"fatigue, diarrhea, chest pain, itchy eyes",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"depression, swollen glands, irritability, tingling, loss of smell, itchy eyes",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"fever, fatigue, joint pain, itchy eyes, vomiting, runny nose",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"muscle pain, swollen glands, cough, blurred vision",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"abdominal pain, sore throat, chest pain, irritability",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"sneezing, fever, sore throat, joint pain, loss of smell, rash",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"cough, depression, joint pain, diarrhea, sneezing, chills",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"cough, sweating, blurred vision",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"loss of taste, cough, chills, diarrhea",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"shortness of breath, vomiting, insomnia, dizziness, sweating, fever",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"depression, diarrhea, sneezing, irritability, runny nose",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"blurred vision, sneezing, nausea, chills, fatigue",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"back pain, fatigue, dizziness, sore throat",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"abdominal pain, diarrhea, headache, sweating, loss of smell, tingling",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"cough, diarrhea, nausea, blurred vision, irritability",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"chest pain, anxiety, loss of smell, diarrhea",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"abdominal pain, back pain, loss of smell, dizziness",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"diarrhea, fever, itchy eyes, sweating, chills, abdominal pain",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"diarrhea, runny nose, joint pain, insomnia, itchy eyes",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"joint pain, sneezing, chills, nausea",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"sweating, loss of smell, anxiety, fatigue",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"shortness of breath, cough, rash",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"itchy eyes, rash, cough, headache",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"joint pain, sore throat, depression, swollen glands, vomiting",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"depression, sweating, diarrhea",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"tingling, dizziness, abdominal pain, joint pain, anxiety",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"chills, irritability, fatigue, back pain, muscle pain, fever",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"blurred vision, fatigue, sneezing",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"sneezing, fatigue, loss of smell, blurred vision, loss of taste",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"diarrhea, cough, depression",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"fatigue, nausea, shortness of breath, anxiety, itchy eyes, insomnia",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"blurred vision, swollen glands, insomnia",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"loss of taste, insomnia, headache, vomiting, shortness of breath, loss of smell",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"joint pain, abdominal pain, swollen glands",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"muscle pain, swollen glands, tingling, vomiting, fatigue",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"depression, vomiting, fatigue",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"abdominal pain, blurred vision, diarrhea, chest pain, dizziness, vomiting",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"blurred vision, loss of taste, sneezing, tingling",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"swollen glands, fever, diarrhea, rash, chills, chest pain",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"loss of taste, rash, muscle pain, itchy eyes, cough, sore throat",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"diarrhea, cough, loss of smell",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"cough, vomiting, tingling, muscle pain, sweating",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"tingling, loss of smell, sneezing, back pain, swollen glands, blurred vision",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"dizziness, diarrhea, loss of taste, headache, depression",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"blurred vision, fever, loss of smell, anxiety, vomiting",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"rash, sweating, abdominal pain, shortness of breath",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"headache, chest pain, itchy eyes, swollen glands, runny nose",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"sore throat, headache, anxiety, blurred vision, swollen glands, irritability",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"sneezing, joint pain, runny nose, itchy eyes, back pain, tingling",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"chest pain, back pain, chills",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"tingling, chills, shortness of breath, cough",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"fever, fatigue, cough, sweating, depression, anxiety",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"blurred vision, loss of taste, tingling, chills",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"depression, diarrhea, swollen glands",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"chills, itchy eyes, fever, sneezing",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"shortness of breath, insomnia, loss of smell, headache, muscle pain, chills",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"depression, anxiety, nausea",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"shortness of breath, fatigue, chest pain, tingling, itchy eyes",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"irritability, depression, swollen glands",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"itchy eyes, chest pain, joint pain, irritability, tingling, fever",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"sore throat, loss of smell, nausea",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"fever, blurred vision, anxiety, irritability",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"fever, rash, cough",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"muscle pain, rash, sneezing, tingling, runny nose",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"sore throat, shortness of breath, headache, itchy eyes",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"chills, swollen glands, blurred vision, depression, tingling, insomnia",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"shortness of breath, loss of smell, chills",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"back pain, joint pain, headache",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"chest pain, back pain, fatigue, sore throat, cough",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"loss of taste, swollen glands, cough, muscle pain",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"sore throat, sneezing, shortness of breath, muscle pain",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"itchy eyes, rash, depression, chest pain",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"irritability, blurred vision, chills, cough",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"insomnia, chills, loss of taste, itchy eyes, rash, tingling",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"runny nose, abdominal pain, nausea, loss of smell, joint pain",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"back pain, insomnia, sneezing, loss of smell, dizziness",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"cough, insomnia, rash",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"insomnia, sore throat, abdominal pain",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"rash, fever, sweating, muscle pain, blurred vision",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"anxiety, fatigue, runny nose, nausea",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"abdominal pain, loss of taste, chills",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"loss of taste, back pain, swollen glands",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"sneezing, diarrhea, chills",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"chills, anxiety, shortness of breath, sneezing, nausea, back pain",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"tingling, runny nose, itchy eyes, back pain",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"sneezing, headache, rash, sore throat, swollen glands",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"sore throat, muscle pain, chills, loss of smell",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"rash, chills, shortness of breath, runny nose, sweating, insomnia",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"loss of smell, chills, blurred vision, swollen glands, headache",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"shortness of breath, back pain, cough, blurred vision, vomiting, nausea",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"diarrhea, depression, joint pain, rash, fever",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"shortness of breath, tingling, irritability, joint pain, headache, chest pain",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"loss of smell, joint pain, rash",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"vomiting, sweating, fatigue",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"headache, shortness of breath, muscle pain, loss of smell",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"loss of smell, chest pain, diarrhea",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"loss of taste, swollen glands, runny nose, sore throat",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"itchy eyes, irritability, depression, headache",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"diarrhea, sneezing, fatigue, dizziness, cough, sweating",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"joint pain, rash, tingling, chest pain, vomiting, headache",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"loss of smell, runny nose, cough, irritability, sneezing",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"rash, joint pain, cough, runny nose",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"anxiety, loss of smell, insomnia, blurred vision, sore throat, runny nose",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"runny nose, shortness of breath, anxiety",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"back pain, insomnia, swollen glands, rash, tingling, chest pain",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"insomnia, diarrhea, sneezing, tingling",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"chills, vomiting, joint pain",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"itchy eyes, blurred vision, tingling, loss of smell",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"sore throat, cough, headache",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"chills, fever, loss of taste, irritability",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"dizziness, fatigue, runny nose, anxiety, abdominal pain",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"shortness of breath, headache, runny nose",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"headache, runny nose, irritability, vomiting",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"dizziness, rash, sore throat, swollen glands",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"abdominal pain, nausea, cough",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"headache, cough, runny nose",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"rash, loss of smell, fever, vomiting",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"sneezing, vomiting, sore throat, cough",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"anxiety, swollen glands, nausea, sweating, sore throat",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"tingling, shortness of breath, diarrhea, headache",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"cough, swollen glands, headache, abdominal pain",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"sore throat, loss of taste, dizziness, chills, sneezing, irritability",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"dizziness, loss of taste, tingling, chest pain",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"vomiting, sweating, anxiety, dizziness, muscle pain",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"loss of smell, anxiety, runny nose, fatigue, swollen glands",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"loss of smell, cough, dizziness, sweating, joint pain",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"sore throat, fatigue, depression, blurred vision, abdominal pain",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"tingling, diarrhea, sneezing, depression",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"fatigue, sweating, loss of taste",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"sore throat, tingling, loss of smell, muscle pain, sweating",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"dizziness, nausea, runny nose",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"anxiety, joint pain, chills, insomnia, swollen glands",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"anxiety, sweating, rash",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"irritability, tingling, nausea, swollen glands, cough, vomiting",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"depression, tingling, vomiting, itchy eyes, joint pain, muscle pain",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"headache, shortness of breath, nausea, sneezing, irritability, blurred vision",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"chest pain, loss of smell, nausea, irritability, itchy eyes, headache",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"back pain, swollen glands, insomnia, cough, shortness of breath, chills",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"shortness of breath, dizziness, joint pain, sweating",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"sneezing, depression, cough, shortness of breath, sore throat",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"loss of taste, back pain, runny nose",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"vomiting, irritability, muscle pain, abdominal pain, sneezing, chest pain",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"diarrhea, fever, runny nose, abdominal pain",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"blurred vision, runny nose, sneezing, joint pain, headache",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"sore throat, itchy eyes, cough, nausea, fatigue, shortness of breath",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"muscle pain, loss of taste, back pain, irritability, shortness of breath, swollen glands",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"blurred vision, anxiety, tingling, fever, swollen glands",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"blurred vision, rash, nausea",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"anxiety, tingling, muscle pain",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"anxiety, swollen glands, irritability, insomnia",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"diarrhea, rash, itchy eyes, chest pain, runny nose, swollen glands",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"anxiety, abdominal pain, fatigue, sore throat",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"irritability, shortness of breath, rash, dizziness, itchy eyes",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"swollen glands, tingling, rash",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"cough, back pain, fever, depression, chest pain, swollen glands",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"irritability, nausea, swollen glands",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"vomiting, headache, runny nose, fever",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"shortness of breath, cough, irritability, nausea, itchy eyes, chills",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"nausea, sore throat, insomnia",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"muscle pain, fatigue, diarrhea, runny nose, itchy eyes, cough",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"loss of smell, joint pain, shortness of breath",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"muscle pain, joint pain, sore throat, loss of taste, runny nose",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"blurred vision, sore throat, back pain, insomnia",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"joint pain, tingling, sore throat, diarrhea, swollen glands",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"headache, swollen glands, chest pain, vomiting",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"headache, chest pain, tingling, loss of smell, sore throat, runny nose",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"chills, fatigue, insomnia, abdominal pain, headache, irritability",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"depression, sweating, insomnia, rash",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"anxiety, runny nose, diarrhea, shortness of breath, vomiting, back pain",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"runny nose, sore throat, fever, abdominal pain",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"fever, loss of taste, fatigue",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"headache, fever, cough, runny nose, muscle pain",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"itchy eyes, swollen glands, sweating, vomiting, abdominal pain",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"loss of taste, chills, dizziness",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"muscle pain, chills, diarrhea, swollen glands",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"insomnia, depression, chest pain, cough, nausea, swollen glands",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"sore throat, shortness of breath, chills, runny nose",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"muscle pain, itchy eyes, fatigue, loss of smell, back pain, joint pain",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"sneezing, headache, loss of taste, depression, chills",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"sweating, dizziness, swollen glands",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"tingling, back pain, anxiety, joint pain",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"sore throat, rash, back pain, joint pain, insomnia, vomiting",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"back pain, depression, vomiting, irritability",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"depression, sneezing, dizziness",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"shortness of breath, cough, sore throat, sweating, vomiting, loss of smell",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"muscle pain, abdominal pain, swollen glands, cough, loss of smell",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"loss of taste, irritability, itchy eyes, muscle pain",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"nausea, dizziness, loss of smell, chest pain, sneezing",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"fatigue, blurred vision, itchy eyes, tingling",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"depression, vomiting, dizziness",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"chest pain, dizziness, nausea, sweating, rash, blurred vision",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"dizziness, tingling, loss of smell, depression",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"sneezing, runny nose, loss of taste, muscle pain",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"sweating, chills, joint pain, depression, sore throat",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"joint pain, sneezing, anxiety, vomiting",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"tingling, abdominal pain, irritability, diarrhea, insomnia",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"sweating, fever, abdominal pain, shortness of breath, chills",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
+"fever, blurred vision, joint pain",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"fatigue, swollen glands, runny nose, insomnia, headache, fever",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"rash, nausea, abdominal pain, tingling, loss of taste",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"abdominal pain, cough, tingling, fever, sneezing",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"abdominal pain, chest pain, fever, fatigue",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"vomiting, loss of taste, fever, irritability",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"runny nose, anxiety, swollen glands, back pain, dizziness",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"loss of smell, joint pain, rash",Food Poisoning,"drink ORS, avoid solid food, rest",ORS Sachets
+"fatigue, tingling, nausea, itchy eyes, fever, diarrhea",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"itchy eyes, vomiting, rash, irritability, sweating",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"joint pain, nausea, headache, loss of taste, chest pain",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"fever, shortness of breath, dizziness, chills, fatigue, headache",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"insomnia, shortness of breath, joint pain, rash, vomiting, blurred vision",Malaria,"mosquito nets, antimalarial drugs, rest",Chloroquine
+"insomnia, chest pain, depression",Pneumonia,"antibiotics, rest, fluids",Azithromycin
+"tingling, irritability, chills, itchy eyes, abdominal pain, diarrhea",Migraine,"dark room, pain relievers, avoid triggers",Ibuprofen
+"vomiting, fatigue, diarrhea, tingling, shortness of breath, nausea",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"sore throat, loss of smell, dizziness, nausea",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"irritability, sweating, loss of smell, swollen glands",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"runny nose, cough, insomnia",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"back pain, diarrhea, blurred vision, loss of smell, itchy eyes, chest pain",Allergy,"antihistamines, avoid allergens, clean environment",Cetirizine
+"vomiting, tingling, insomnia, joint pain, sweating",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"rash, joint pain, cough, chest pain",Chickenpox,"calamine lotion, rest, oatmeal baths",Acyclovir
+"sore throat, cough, dizziness",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"anxiety, back pain, loss of smell",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"irritability, loss of smell, abdominal pain, back pain",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"blurred vision, insomnia, sneezing, fever, cough",COVID-19,"isolation, mask, consult doctor",Favipiravir
+"diarrhea, dizziness, chest pain, vomiting",Asthma,"inhaler, avoid smoke, monitor symptoms",Salbutamol
+"vomiting, loss of smell, abdominal pain, tingling, shortness of breath",Flu,"rest, fluids, antiviral medication",Oseltamivir
+"muscle pain, diarrhea, sore throat, vomiting",Common Cold,"rest, stay hydrated, use humidifier",Paracetamol
+"runny nose, cough, fever, sneezing, sweating",Dengue,"fluids, paracetamol, avoid NSAIDs",Paracetamol
+"diarrhea, irritability, insomnia, chills, runny nose, tingling",Typhoid,"antibiotics, boiled water, rest",Ciprofloxacin
